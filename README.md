@@ -1,5 +1,21 @@
-## Hi there 👋
+# Alejandro González
 
+## Data Scientist / Data Analyst
+
+Hey, I'm Alejandro González. 
+
+**Skills:**
+- Python
+- 
+
+**Proyects:**
+
+
+
+**Contact:**
+- 
+- 
+- 
 <!--
 **alegonzjur/alegonzjur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
