@@ -4,6 +4,10 @@
 
 Hey, I'm Alejandro Román. Recently, graduated in AI & Big Data Master's Degree. 
 
+## 💬 Language
+- Spanish (Native)
+- English (Advanced, C1 Level in Cambridge degree)
+
 ## 🛠 Skills
 - Python (Scikit-Learn, Pandas, TensorFlow, PyTorch)
 - Data Visualization (Matplolib, Seaborn...)
@@ -20,9 +24,9 @@ Hey, I'm Alejandro Román. Recently, graduated in AI & Big Data Master's Degree.
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alegonjur/)
 
-💬 Gmail: alegonjur@gmail.com 
+📫 Gmail: alegonjur@gmail.com 
 
-💬 Discord: aleenminuscula
+📫 Discord: aleenminuscula
 
 <!--
 **alegonzjur/alegonzjur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
