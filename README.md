@@ -17,8 +17,8 @@ Hey, I'm Alejandro Román. Recently, graduated in AI & Big Data Master's Degree.
 - Reinforcement Learning
 
 ## ⚡️ Projects
-- Melody & Lyrics Generator with GPT-2 & Audiocraft.
-- Optimal Routes Generator with Python.
+- LAILA. Melody & Lyrics Generator with GPT-2 & Audiocraft. 
+- AlgoritmoA*. Optimal Routes Generator with Python.
 - Visualization Data App with Flask, Matplotlib & Seaborn.
 
 ## 🔗 Links
